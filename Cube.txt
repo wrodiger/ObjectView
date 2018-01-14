@@ -1,0 +1,35 @@
+Cube
+
+VERTICES 8
+FACES    6
+SCALE    1.5
+PERSP    1
+PERSD   60
+PERSS   15
+XEYE    6.0
+YEYE    8.0
+ZEYE    7.5
+XT      0.0
+YT      0.0
+ZT      0.0
+XINC    0.005
+YINC    0.005
+ZINC    0.0
+
+VERTICES
+ 1      1     -1
+ 1     -1     -1
+-1     -1     -1
+-1      1     -1
+ 1      1      1
+ 1     -1      1
+-1     -1      1
+-1      1      1
+
+FACES
+4   0   1   2   3
+4   4   5   6   7
+4   0   1   5   4
+4   1   5   6   2
+4   2   6   7   3
+4   0   4   7   3
