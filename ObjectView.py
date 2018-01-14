@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''
-		ObjectView for Python 3  
+		ObjectView for Python 3 (Pythonista 3 version)
 		
 		Copyright (c) 2017 William K. Rodiger
 
