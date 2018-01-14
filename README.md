@@ -1,2 +1,2 @@
 # ObjectView
-Simple wireframe rendering application with rotations and transformations.
+Simple wireframe rendering application with rotations, transformations and perspective.
