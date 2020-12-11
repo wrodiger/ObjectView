@@ -13,11 +13,12 @@
 		
 		Pythonista version (Pythonista canvas) - 12/14/2017
 		Mac version (tkinter) - 1/13/2018
+        Cleanup source formating - 12/7/2020
 		
 '''
 import math
 #import canvas
-from tkinter import *
+from tkinter import Tk, Canvas
 
 #
 # setup constants
