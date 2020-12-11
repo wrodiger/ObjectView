@@ -26,7 +26,7 @@ from tkinter import Tk, Canvas
 
 DIMS = 4
 master = Tk()
-
+master.withdraw()
 
 #
 #	class Objectv:
