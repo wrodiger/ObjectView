@@ -13,6 +13,7 @@
 		
 		Pythonista version (Pythonista canvas) - 12/14/2017
 		Mac version (tkinter) - 1/13/2018
+        Hide root Tk window and linted source - 12/11/2020
 		
 '''
 import math
@@ -26,7 +27,6 @@ from tkinter import Tk, Canvas
 DIMS = 4
 master = Tk()
 master.withdraw()
-
 
 #
 #	class Objectv:

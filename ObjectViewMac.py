@@ -13,7 +13,7 @@
 		
 		Pythonista version (Pythonista canvas) - 12/14/2017
 		Mac version (tkinter) - 1/13/2018
-        Cleanup source formating - 12/7/2020
+        Hide root Tk window and linted source - 12/11/2020
 		
 '''
 import math
